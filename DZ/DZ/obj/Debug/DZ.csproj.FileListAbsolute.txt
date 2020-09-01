@@ -1,0 +1,7 @@
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\bin\Debug\DZ.exe.config
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\bin\Debug\DZ.exe
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\bin\Debug\DZ.pdb
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\obj\Debug\DZ.exe
+C:\Личный контент\Учеба\Домашние задания\Управление проектами\Day 3\DZ_3\DZ\DZ\obj\Debug\DZ.pdb
